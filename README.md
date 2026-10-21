@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://prabhatgupta.in/" target="_blank" rel="noopener noreferrer">
+  <a href="https://prabhatgupta.in/">
     <img src="./assets/hero.svg" alt="Prabhat Gupta — Senior Software Engineer | Turning complex problems into intelligent systems" width="100%" />
   </a>
 </div>
@@ -85,10 +85,10 @@ AI & ARCHITECTURE  ::  LLM & AI Integration · System Design · Federated APIs
 **Have something in mind? Great things start with a conversation.**
 
 <p align="left">
-  <a href="https://prabhatgupta.in/" target="_blank" rel="noopener noreferrer">
+  <a href="https://prabhatgupta.in/">
     <img src="https://img.shields.io/badge/WEBSITE-prabhatgupta.in-090A0F?style=for-the-badge&labelColor=11131C" alt="Portfolio" />
   </a>
-  <a href="https://www.linkedin.com/in/prabhat--gupta/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/prabhat--gupta/">
     <img src="https://img.shields.io/badge/LINKEDIN-prabhat----gupta-090A0F?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=11131C" alt="LinkedIn" />
   </a>
 </p>
